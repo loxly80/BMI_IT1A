@@ -6,7 +6,9 @@ namespace BMI_IT1A
     {
         static void Main(string[] args)
         {
-            Console.WriteLine("Hello World!");
+            Console.WriteLine("Výpočet BMI");
+
+            Console.Read();
         }
     }
 }
